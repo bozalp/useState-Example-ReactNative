@@ -1,0 +1,38 @@
+[
+  {
+    "id": 0,
+    "userName": "John Doe",
+    "imageUrl": "https://i.picsum.photos/id/1011/5472/3648.jpg?hmac=Koo9845x2akkVzVFX3xxAc9BCkeGYA9VRVfLE4f0Zzk",
+    "liked": false
+  },
+  {
+    "id": 1,
+    "userName": "Daniel Sparkse",
+    "imageUrl": "https://i.picsum.photos/id/1013/4256/2832.jpg?hmac=UmYgZfqY_sNtHdug0Gd73bHFyf1VvzFWzPXSr5VTnDA",
+    "liked": false
+  },
+  {
+    "id": 2,
+    "userName": "Benjamin Pirus",
+    "imageUrl": "https://i.picsum.photos/id/1012/3973/2639.jpg?hmac=s2eybz51lnKy2ZHkE2wsgc6S81fVD1W2NKYOSh8bzDc",
+    "liked": true
+  },
+  {
+    "id": 3,
+    "userName": "Omkar Godbole",
+    "imageUrl": "https://i.picsum.photos/id/101/2621/1747.jpg?hmac=cu15YGotS0gIYdBbR1he5NtBLZAAY6aIY5AbORRAngs",
+    "liked": true
+  },
+  {
+    "id": 4,
+    "userName": "Jessica",
+    "imageUrl": "https://i.picsum.photos/id/1010/5184/3456.jpg?hmac=7SE0MNAloXpJXDxio2nvoshUx9roGIJ_5pZej6qdxXs",
+    "liked": true
+  },
+  {
+    "id": 5,
+    "userName": "Ronaldo",
+    "imageUrl": "https://i.picsum.photos/id/1004/5616/3744.jpg?hmac=Or7EJnz-ky5bsKa9_frdDcDCR9VhCP8kMnbZV6-WOrY",
+    "liked": false
+  }
+]
